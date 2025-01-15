@@ -1,6 +1,8 @@
 # PIZZAHUT-sales-Analysis
 Analyze PizzaHut sales data using SQL to derive insights into order patterns, revenue generation, and pizza preferences, aiding in data-driven decision-making for improved business outcomes.
 
+![](https://github.com/shiv0602/PIZZAHUT-sales-Analysis/blob/main/PIZZA%20SALES.png)
+
 This concise statement encompasses the goals outlined in the detailed points from this presentation.
 
 PizzaHut_Hut Sales Analysis with_SQL

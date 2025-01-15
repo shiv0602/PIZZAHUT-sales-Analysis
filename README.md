@@ -7,7 +7,7 @@ This concise statement encompasses the goals outlined in the detailed points fro
 
 PizzaHut_Hut Sales Analysis with_SQL
 
-1.Retrieve the total number of orders placed.
+1.Retrieve the total number of orders placed.                                                                                                                                                                                                                         
 
 2.Calculate the total revenue generated from pizza sales.
 
